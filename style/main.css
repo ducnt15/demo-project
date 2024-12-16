@@ -19,7 +19,7 @@ body {
   text-align: center;
   visibility: hidden;
   width: 100vw;
-  background-image: url('/img/background.jpg'); /* Thay thế đường dẫn hình ảnh của bạn */
+  background-image: url('img/background.jpg'); /* Thay thế đường dẫn hình ảnh của bạn */
   background-size: cover; /* Đảm bảo hình ảnh phủ kín toàn bộ container */
   background-position: center; /* Căn chỉnh hình ảnh vào giữa */
 }
